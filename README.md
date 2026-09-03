@@ -207,7 +207,7 @@ Multi-Agent Systems
 Reliable AI Infrastructure
 ```
 
-I'm particularly interested in the next generation of **AI-native software**, where intelligent systems become deeply integrated into the way applications are designed and operated.
+I'm particularly interested in the next generation of **AI-native software** where intelligent systems become deeply integrated into the way applications are designed and operated.
 
 ---
 
